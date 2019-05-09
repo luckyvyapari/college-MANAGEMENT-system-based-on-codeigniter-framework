@@ -15,15 +15,15 @@
 This is a STUDENT MANAGEMENT SYSYTEM  function by PHP CodeIgniter framework.
 
 ## Screenshots
-![Example screenshot](./img/Capture.jpeg)
-![Example screenshot](./img/Capture1.jpeg)
-![Example screenshot](./img/Capture2.jpeg)
-![Example screenshot](./img/Capture3.jpeg)
-![Example screenshot](./img/Capture4.jpeg)
-![Example screenshot](./img/Capture5.jpeg)
-![Example screenshot](./img/Capture6.jpeg)
-![Example screenshot](./img/Capture7.jpeg)
-![Example screenshot](./img/Capture8.jpeg)
+![Example screenshot](./img/Capture.JPG)
+![Example screenshot](./img/Capture1.JPG)
+![Example screenshot](./img/Capture2.JPG)
+![Example screenshot](./img/Capture3.JPG)
+![Example screenshot](./img/Capture4.JPG)
+![Example screenshot](./img/Capture5.JPG)
+![Example screenshot](./img/Capture6.JPG)
+![Example screenshot](./img/Capture7.JPG)
+![Example screenshot](./img/Capture8.JPG)
 ## Technologies
 * Tech 1 - codeigniter
 * Tech 2 - php
@@ -91,4 +91,4 @@ Project inspired by udemy course, based on college management system
 Created by LUCKY VYAPARI - feel free to contact me!
 ***It is a zip folder, for see the source code you should download it.***
 
-Thanks from ***TLUCKY VYAPARI.***
+Thanks from ***LUCKY VYAPARI.***
