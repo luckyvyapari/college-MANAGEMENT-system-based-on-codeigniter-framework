@@ -1,5 +1,5 @@
 # Project Name
->STUDENT MANAGEMENT SYSYTEM
+>College MANAGEMENT SYSYTEM
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-This is a STUDENT MANAGEMENT SYSYTEM  function by PHP CodeIgniter framework.
+This is a COllege MANAGEMENT SYSYTEM  function by PHP CodeIgniter framework.
 
 ## Screenshots
 ![Example screenshot](./img/Capture.JPG)
